@@ -1,5 +1,5 @@
 resource "google_compute_instance" "default" {
-name = "test"
+name = "test_VM_from_git_module"
 machine_type = "e2-micro"
 zone = "us-south1-a"
 
