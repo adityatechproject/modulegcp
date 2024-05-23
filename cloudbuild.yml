@@ -1,3 +1,5 @@
+ECHO "ddddd"
+
 steps:
   - id: 'tf init'
     name: 'hashicorp/terraform:1.0.0'
