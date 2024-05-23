@@ -1,6 +1,6 @@
-module "vm" {
+module "bucket" {
 
-  source = "git@github.com:adityatechproject/modulegcp.git"
+  source = "git@github.com:adityatechproject/may22/modulegcp.git"
 
   //source       = "../../Modulegcp/vm"
 
