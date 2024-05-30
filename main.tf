@@ -1,8 +1,8 @@
 module "bucket" {
 
-  source = "git@github.com:adityatechproject/modulegcp.git"
+  //source = "git@github.com:adityatechproject/modulegcp.git"
 
-  //source       = "./modules/"
+  source       = "./modules/"
 
 }
 
