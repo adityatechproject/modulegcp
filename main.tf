@@ -1,7 +1,7 @@
 module "bucket" {
 
-  source = "git::ssh://git@github.com:adityatechproject/modulegcp/modules/bucket.git"
-  //source = "https://github.com/adityatechproject/modulegcp/blob/main/modules/bucket.tf"
+  //source = "git::ssh://git@github.com:adityatechproject/modulegcp/modules/bucket.git"
+  source = "git::https://github.com/adityatechproject/modulegcp.tf"
 
   //source       = "./modules/"
 
