@@ -1,4 +1,4 @@
-resource "google_storage_bucket" "terraform-423501_bucket_1" {
+resource "google_storage_bucket" "terraform-423501_bucket_modulegcp" {
   name                     = "terraform-423501_test_1"
   project                  = "terraform-423501"
   location                 = "US"
